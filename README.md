@@ -67,6 +67,7 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Rahul Pandey](https://www.youtube.com/@RahulPandeyrkp)
 
 ## LinkedIN
+- [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
 - [Hemant Pandey](https://www.linkedin.com/in/hemant-pandey/)
 - [Gregor Ojstersek](https://www.linkedin.com/in/gregorojstersek/)
 - [Ryan Peterman](https://www.linkedin.com/in/ryanlpeterman/)
@@ -75,11 +76,3 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
 - [Mayank Ahuja](https://www.linkedin.com/in/curiouslearner/)
 
-## Tools
-- [Taro (affiliate - 20% off)](https://www.jointaro.com/r/hemantpandey/) Career Growth Community
-- [Topmate](http://topmate.io/join/hemant) Mentorship platform where you learn from other and share
-- [Codecrafters (affiliate - 40% off when you upgrade)](https://app.codecrafters.io/join?via=hemantpandey17) Practical coding challenges where you learn by doing
-- [Notion](https://affiliate.notion.so/l351yvf8xep7) Second brain for all your thoughts
-- [Mailbrew](https://mailbrew.com/?aff=hemantpandey) Groups a bunch of newsletters into 1 email per day so you don’t have to clear 15 items from your inbox every day
-- [TLDR](https://tldr.tech/signup?utm_source=TheHustlingEngineer&utm_campaign=TheHustlingEngineer-cpa-campaign&utm_medium=newsletter-sponsorship) - Follow latest trends and news on tech in 2 minutes
-- [Favikon](http://favikon.com/?ref=hemant) - Analyze and track content creators
